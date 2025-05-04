@@ -6,4 +6,4 @@ git status
 git restore
 git remote -v
 git remote add origin (link)
-git push origin (origin name master)
+git push origin (origin name master). Changed from web as yt told
