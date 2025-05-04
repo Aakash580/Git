@@ -1,0 +1,8 @@
+Basic 
+Git init
+Git add . 
+Git commit - m "comment"
+git status
+git restore
+git remote -v
+git remote add origin (link)
