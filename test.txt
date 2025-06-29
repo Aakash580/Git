@@ -7,4 +7,4 @@ git restore
 git remote -v
 git remote add origin (link)
 git push origin (origin name master). -- to push the changes : Changed from web as yt told
-git pull origin master -- to pull the changes from the web
+git pull origin master -- to pull the changes from the web....
